@@ -1,3 +1,7 @@
+"""
+LYM - Project 0 by Julian Mondragon and Ana Hernandez
+"""
+
 import Lexer as lexer
 import Rules as rules
 

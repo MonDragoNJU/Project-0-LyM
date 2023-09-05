@@ -1,3 +1,6 @@
+"""
+LYM - Project 0 by Julian Mondragon and Ana Hernandez
+"""
 
 import ply.lex as lex
 
