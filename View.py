@@ -32,6 +32,12 @@ def main():
 
     print("")
 
+    print("ALSO")
+
+    print("Do not press 'enter' between code lines.")
+
+    print("")
+
     print("WARNING!")
 
     print("Otherwise the verification process will fail")
